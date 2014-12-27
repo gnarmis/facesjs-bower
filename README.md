@@ -8,7 +8,12 @@ This project packages up [faces.js](https://github.com/dumbmatter/facesjs) by @d
 
 ## Usage
 
-Two function: `display` and `generate`. Look at them first.
+Everything is in the variable `faces`. Two important functions: `display` and
+`generate`. Look at them first.
+
+Each "face" is just a simple Javascript object and is declarative. Each key in
+this face-hashmap is a facial feature, with the component keys and values
+controlling the appearance of that facial feature.
 
 Example of the data that comprises a "face":
 
