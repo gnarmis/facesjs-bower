@@ -1,0 +1,25 @@
+{
+  "name": "facesjs-bower",
+  "version": "0.0.1",
+  "authors": [
+    "Gursimran Singh <g@kilotau.com>"
+  ],
+  "description": "A packaging of @dumbmatter's lib that draws cartoonish faces",
+  "main": "faces.js",
+  "keywords": [
+    "facesjs",
+    "faces",
+    "cartoons",
+    "visualization",
+    "svg"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gnarmis/facesjs-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
